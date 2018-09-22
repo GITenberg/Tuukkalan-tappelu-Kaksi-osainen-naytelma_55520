@@ -1,11 +1,16 @@
 _repo: Tuukkalan-tappelu-Kaksi-osainen-naytelma_55520
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Numers, Gustaf von
     gutenberg_agent_id: '48381'
     url: http://www.gutenberg.org/2009/agents/48381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55520#Tuukkalan-tappelu-Kaksi-osainen-naytelma
 gutenberg_issued: '2017-09-10'
 gutenberg_type: Text
 identifiers:
